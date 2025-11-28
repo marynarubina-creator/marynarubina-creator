@@ -1,4 +1,4 @@
-[![Header](https://github.com/marynarubina-creator/marynarubina-creator/blob/main/assets/header.png)](https://www.linkedin.com/in/maryna-rubina/)
+[![Header](https://github.com/marynarubina-creator/marynarubina-creator/blob/main/assets/header_blue.png)](https://www.linkedin.com/in/maryna-rubina/)
 
 Aboout me 
 
